@@ -1,5 +1,5 @@
 # SMART-AGRI-4.O
-# # 🌱 Plant Disease Detection System
+# 🌱 Plant Disease Detection System
 
 This project is an AI-based Plant Disease Detection System developed as a mini project.
 
